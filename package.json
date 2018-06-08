@@ -28,12 +28,12 @@
         "url": "https://github.com/ragnarpool/node-stratum-pool.git"
     },
     "dependencies": {
-        "async": "*",
-        "base58-native": "*",
-        "bignum": "*",
-        "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "equihashverify": "git+https://github.com/ragnarpool/equihashverify-btcz.git",
+        "bignum": "*",
+        "base58-native": "*",
+        "async": "*",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+        "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "promise": "*"
     },
     "engines": {
